@@ -1,0 +1,50 @@
+C:\Users\chuon\Downloads\LuckyDice\Server\bin\Debug\Server.exe.config
+C:\Users\chuon\Downloads\LuckyDice\Server\bin\Debug\Server.exe
+C:\Users\chuon\Downloads\LuckyDice\Server\bin\Debug\Server.pdb
+C:\Users\chuon\Downloads\LuckyDice\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\chuon\Downloads\LuckyDice\Server\obj\Debug\Server.MiniServer.resources
+C:\Users\chuon\Downloads\LuckyDice\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\chuon\Downloads\LuckyDice\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\chuon\Downloads\LuckyDice\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\chuon\Downloads\LuckyDice\Server\obj\Debug\Server.exe
+C:\Users\chuon\Downloads\LuckyDice\Server\obj\Debug\Server.pdb
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\bin\Debug\Server.exe.config
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\bin\Debug\Server.exe
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\bin\Debug\Server.pdb
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\obj\Debug\Server.MiniServer.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\obj\Debug\Server.exe
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\Server\obj\Debug\Server.pdb
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\bin\Debug\Server.exe.config
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\bin\Debug\Server.exe
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\bin\Debug\Server.pdb
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\obj\Debug\Server.MiniServer.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\obj\Debug\Server.exe
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\Server\obj\Debug\Server.pdb
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\bin\Debug\Server.exe.config
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\bin\Debug\Server.exe
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\bin\Debug\Server.pdb
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\obj\Debug\Server.MiniServer.resources
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\obj\Debug\Server.exe
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\Server\obj\Debug\Server.pdb
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\bin\Debug\Server.exe.config
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\bin\Debug\Server.exe
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\bin\Debug\Server.pdb
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\obj\Debug\Server.MiniServer.resources
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\obj\Debug\Server.exe
+C:\Users\chuon\Documents\LTM\LuckyDice\Server\obj\Debug\Server.pdb

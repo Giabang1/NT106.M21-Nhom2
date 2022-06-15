@@ -1,0 +1,161 @@
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.exe
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.deps.json
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.json
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.dev.json
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.AssemblyReference.cache
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.CharacterSelected.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Introduction.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Law.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Playing.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Properties.Resources.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Summary.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.GenerateResource.cache
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfoInputs.cache
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfo.cs
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.CoreCompileInputs.cache
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.genruntimeconfig.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.exe
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.deps.json
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.json
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.dev.json
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csprojAssemblyReference.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.CharacterSelected.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Introduction.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Law.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Playing.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Properties.Resources.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Summary.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.GenerateResource.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfoInputs.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfo.cs
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.CoreCompileInputs.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\Tran Gia Bang\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.genruntimeconfig.cache
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.exe
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.deps.json
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.json
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.dev.json
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.AssemblyReference.cache
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.CharacterSelected.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Introduction.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Law.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Playing.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Properties.Resources.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Summary.resources
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.GenerateResource.cache
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfoInputs.cache
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfo.cs
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.CoreCompileInputs.cache
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Downloads\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.genruntimeconfig.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.exe
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.deps.json
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.json
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.dev.json
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csprojAssemblyReference.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.CharacterSelected.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Introduction.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Law.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Playing.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Properties.Resources.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Summary.resources
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.GenerateResource.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfoInputs.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfo.cs
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.CoreCompileInputs.cache
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\Tran Gia Bang\Downloads\LuckyDice1\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.genruntimeconfig.cache
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.exe
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.deps.json
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.json
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.dev.json
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.AssemblyReference.cache
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.CharacterSelected.resources
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Introduction.resources
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Law.resources
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Playing.resources
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Properties.Resources.resources
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Summary.resources
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.GenerateResource.cache
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfoInputs.cache
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfo.cs
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.CoreCompileInputs.cache
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Downloads\LuckyDice (1)\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.genruntimeconfig.cache
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.exe
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.deps.json
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.json
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.dev.json
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.AssemblyReference.cache
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.CharacterSelected.resources
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Introduction.resources
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Law.resources
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Playing.resources
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Properties.Resources.resources
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Summary.resources
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.GenerateResource.cache
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfoInputs.cache
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfo.cs
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.CoreCompileInputs.cache
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Documents\LuckyDice\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.genruntimeconfig.cache
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.exe
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.deps.json
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.json
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.runtimeconfig.dev.json
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\bin\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.AssemblyReference.cache
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.CharacterSelected.resources
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Introduction.resources
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Law.resources
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Playing.resources
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Properties.Resources.resources
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.Summary.resources
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.GenerateResource.cache
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfoInputs.cache
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.AssemblyInfo.cs
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.csproj.CoreCompileInputs.cache
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.dll
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\ref\LuckyDice.dll
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.pdb
+C:\Users\chuon\Documents\LTM\LuckyDice\LuckyDice\obj\Debug\net5.0-windows\LuckyDice.genruntimeconfig.cache
